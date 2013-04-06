@@ -1,3 +1,5 @@
 
+.phony: all
 
-hw: hw.c
+
+all hw: hw.c
