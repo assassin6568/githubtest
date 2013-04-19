@@ -13,6 +13,6 @@ main()
     printf("\n\nHello World seventh line\n\n");
     printf("\n\nHello World eighth line\n\n");
     printf("\n\nHello World ninth line\n\n");
-    printf("\n\nHello World tenth line\n\n");
+    printf("\n\nHello World tent line\n\n");
 
 }
