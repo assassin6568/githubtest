@@ -1,0 +1,11 @@
+# Dont track files with .o or .a extensions
+
+*.[oa]
+
+
+*.project
+*.cproject
+
+a.out
+hw
+tmp.sh
